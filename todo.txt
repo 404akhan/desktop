@@ -1,0 +1,5 @@
+1) experience replay read
+https://arxiv.org/pdf/1511.05952.pdf
+2) dqn on pong, add s,s'->a, add s,s',s''->r', see performance
+3) look implementation of atari next frame prediction
+4) unreal

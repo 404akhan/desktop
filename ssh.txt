@@ -1,0 +1,12 @@
+ssh -i "/home/akhan7/Downloads/akhan-key2.pem" ubuntu@ec2-54-202-167-219.us-west-2.compute.amazonaws.com
+
+sudo apt install cmake
+sudo apt install swig
+sudo apt-get install zlib1g-dev
+pip3 install gym[all]
+pip3 install lib
+pip3 install matplotlib
+pip3 install pandas
+sudo apt install python3-tk
+sudo apt-get install ffmpeg
+

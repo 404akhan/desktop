@@ -1,0 +1,28 @@
+-- must
+1) https://arxiv.org/abs/1611.05397
+unreal
+2) https://arxiv.org/abs/1611.03673
+deepmind cited unreal
+
+1) https://arxiv.org/abs/1507.08750
+video prediction atari
+2) https://arxiv.org/abs/1605.07157
+real world flow prediction
+2,3) https://arxiv.org/abs/1610.00527
+video pixel network with probability over pixels
+4) https://arxiv.org/abs/1606.07419
+image_pr,image_next -> action, that learns cnn
+
+-- 
+planning with model
+https://arxiv.org/abs/1610.00696
+
+-- dr kwak
+https://arxiv.org/abs/1602.02867
+Value Iteration Networks
+
+-- cited unreal
+https://scholar.google.co.kr/scholar?um=1&ie=UTF-8&lr&cites=14888805482854497974
+look at related works
+
+http://connect.navercorp.com/
